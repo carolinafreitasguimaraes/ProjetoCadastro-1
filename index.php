@@ -13,7 +13,7 @@
 
    <h3>Caminho</h3>
    <ul class="menu">
-        <li><a href="cadastro_usuario.html">Cadastrar</a></li>
+        <li><a href="cadastro_usuarioHTML.php">Cadastrar</a></li>
         <li><a href="listar_usuarios.php">Listar</a></li>
    </ul>
 

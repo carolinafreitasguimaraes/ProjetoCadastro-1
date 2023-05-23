@@ -35,7 +35,7 @@
         </div>
         <div>
             <label for="" class="form-label">Telefone: </label>
-            <input type="tel" class="form-control ms-3" name="fone" id="nome" pattern="\([0-9]{2}\)([9]{1})?[0-9]{4}-[0-9]{4}" value="<?php echo $row['fone'] ?>" style="width: 90%;"><br>
+            <input type="tel" class="form-control ms-3" name="fone" id="nome" pattern="(\([0-9]{2}\))\s([9]{1})?([0-9]{4})-([0-9]{4})" value="<?php echo $row['fone'] ?>" style="width: 90%;"><br>
         </div>
         <div>
             <label for="" class="form-label">Senha: </label>

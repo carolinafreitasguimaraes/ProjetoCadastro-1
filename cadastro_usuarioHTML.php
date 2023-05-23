@@ -35,7 +35,7 @@
         </div>
         <div>
             <label for="" class="form-label">Telefone: </label>
-            <input type="tel" class="form-control" name="fone" id="nome" pattern="\([0-9]{2}\)([9]{1})?[0-9]{4}-[0-9]{4}" placeholder="Formato (18) 99999-8888"><br>
+            <input type="tel" class="form-control" name="fone" id="nome" pattern="(\([0-9]{2}\))\s([9]{1})?([0-9]{4})-([0-9]{4})" placeholder="Formato (18) 99999-8888"><br>
         </div>
         <div>
             <label for="" class="form-label">Senha: </label>
